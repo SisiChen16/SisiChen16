@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SisiChen16
 - 👀 I’m interested in Cancer biology, Translational medicine and clinical research. 
 - 🌱 I’m currently learning data analysis with R and Cancer informatics. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
   - Email: sc9118@ic.ac.uk
   - Telephone: (+86) 15000444846
